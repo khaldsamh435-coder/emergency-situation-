@@ -1,0 +1,21 @@
+{
+  "name": "emergency-situation",
+  "version": "1.0.0",
+  "description": "Egyptian Emergency Directory - Contact numbers for police, ambulance, utilities, and government services",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build required'",
+    "dev": "npx serve .",
+    "lint": "echo 'No linter configured for static HTML'"
+  },
+  "keywords": [
+    "emergency",
+    "egypt",
+    "directory"
+  ],
+  "author": "Kareem El-Sarkawe and Khalid Sameh",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
